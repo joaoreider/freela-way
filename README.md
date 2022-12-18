@@ -19,7 +19,7 @@ Descrição...
 
 # :hammer: Funcionalidades do projeto
 
-- `F1`: df1.
+- `Autenticação com recuperação de senha`: O sistema permite que o usuário faça o cadatro e o login com opção de recuperar senha com um link de recuperação sendo enviado para o email cadastrado.
 &nbsp;
 
 
@@ -36,8 +36,7 @@ Descrição...
 
 # 📁 Acesso ao projeto
 
-
-
+https://github.com/joaoreider/freela-way
 
 # 🛠️ Abrir e rodar o projeto
 
