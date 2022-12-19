@@ -1,7 +1,7 @@
 <h1 align="center"> FreelaWay </h1>
 
 <p style='text-align: justify;'> 
-Descrição...
+Uma plataforma que conecta trabalhadores freelancers com projetos de seus interesses. Um trabalhador pode solicitar interesse num projeto em aberto e trabalhar nesse projeto caso este esteja disponível.
 </p>
 
 
@@ -20,6 +20,15 @@ Descrição...
 # :hammer: Funcionalidades do projeto
 
 - `Autenticação com recuperação de senha`: O sistema permite que o usuário faça o cadatro e o login com opção de recuperar senha com um link de recuperação sendo enviado para o email cadastrado.
+&nbsp;
+
+- `Filtros de busca`: Filtragem de preços, categorias e prazos na procura por jobs
+&nbsp;
+
+- `Solicitar novo projeto`: Demonstrar interesse num projeto em aberto
+&nbsp;
+
+- `Cadastrar novo job`: Inserir uma oportunidade de projeto para trabalhadores freelancers interessados
 &nbsp;
 
 
