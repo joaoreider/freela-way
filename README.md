@@ -5,8 +5,6 @@ Uma plataforma que conecta trabalhadores freelancers com projetos de seus intere
 </p>
 
 
-<img align="center" alt="Proj-gif"  src="templates\static\readme\Projeto Nutrilab.gif">
-
 
 
 </div>
