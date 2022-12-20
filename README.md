@@ -25,12 +25,14 @@ Uma plataforma que conecta trabalhadores freelancers com projetos de seus intere
 - `Filtros de busca`: Filtragem de preços, categorias e prazos na procura por jobs
 &nbsp;
 
-- `Solicitar novo projeto`: Demonstrar interesse num projeto em aberto
+- `Solicitar novo job`: Demonstrar interesse num projeto em aberto
 &nbsp;
 
 - `Cadastrar novo job`: Inserir uma oportunidade de projeto para trabalhadores freelancers interessados
 &nbsp;
 
+- `Histórico de jobs solicitados`: No perfil do candidato há um histórico de jobs cadastrados
+&nbsp;
 
 
 # ✔️ Técnicas e tecnologias utilizadas
